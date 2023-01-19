@@ -1,1 +1,3 @@
-export { Habit } from './Habit'
+export { HabitDay } from './HabitDay'
+export { Header } from './Header'
+export { SummaryTable } from './SummaryTable'
